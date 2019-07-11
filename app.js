@@ -80,9 +80,9 @@ App({
     },
     globalData: { //全局变量
         userInfo: null,
-        URL: "https://blog.eunji.cn",
-        blogName: "Aquan",
-        TOKEN: "youtoken",
+        URL: "https://aprilwu0401.github.io",
+        blogName: "April's Space",
+        TOKEN: "efc385dc6331d0108c61c2bc78e9668ea61bb8d9",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
     },
 
